@@ -1,20 +1,7 @@
 # mi_card
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-[](url)
+this code creates a mobile app user interface using the Flutter framework. The interface includes an avatar image, a title, a subtitle, and contact information that is displayed in the form of two cards. All the widgets are rendered in a column layout and the background color of the app is set to teal.
 
 [](url)
 ![Screenshot_20230118_192056](https://user-images.githubusercontent.com/76620715/213190993-c2c13c5b-c1c4-4315-aad8-f489f77c8dba.png)
